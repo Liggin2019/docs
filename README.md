@@ -1,1 +1,1 @@
-# It is the project guide for Ligg.EasyWinApp
+# Guide for Ligg.EasyRPADesk
